@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 13 19:32:09 2022
 
-@author: 표승현
+@author: 표승현, 오영진
 example code for histogram projection with visualization
 
 * this code NEEDs Numpy files in TEST directory 
