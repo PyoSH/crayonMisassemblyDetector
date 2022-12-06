@@ -3,6 +3,7 @@
 Created on Fri Oct 28 11:08:06 2022
 
 @author: 표승현
+example code for image integral
 """
 import cv2
 import numpy as np 
