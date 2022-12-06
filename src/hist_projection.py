@@ -3,6 +3,7 @@
 Created on Sun Nov 13 19:32:09 2022
 
 @author: 표승현
+example code for histogram projection with visualization
 """
 
 import numpy as np 
