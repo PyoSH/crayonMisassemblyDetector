@@ -3,6 +3,7 @@
 Created on Thu Nov 10 16:15:24 2022
 
 @author: 표승현, 오영진
+Twisted detection method : image integral 
 """
 
 
