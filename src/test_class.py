@@ -3,6 +3,7 @@
 Created on Wed Oct 19 00:17:27 2022
 
 @author: 표승현
+counter func -> (4 points) -> arrange into TL, TR, BL, BR point
 """
 import numpy as np 
 
