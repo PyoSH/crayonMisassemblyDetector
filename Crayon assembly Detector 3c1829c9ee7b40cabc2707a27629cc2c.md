@@ -16,9 +16,7 @@ We made a new img with only crayon plate was created using **Contour&warp perspe
 1. Select 2 color binary img and combine those imgs using **bitwise_or.**
 2. Find largest rectangle in contour list. 
 
-![Untitled](/Untitled 3.png)
-
-![Untitled](Crayon%20assembly%20Detector%203c1829c9ee7b40cabc2707a27629cc2c/Untitled%204.png)
+[process explainable img in here]
 
 1. Get 4 points from contour func, readjust them in *top-right, top-left, bottom-right, bottom-left.*
 2. Make a new img from 4 points described above, using **warp perspective.**
