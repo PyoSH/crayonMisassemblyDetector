@@ -4,18 +4,6 @@ This project is the result of [Computer Vision Appliance(professor. 이승호)] 
 
 The goal of this project is to write a program that **detects** 3 kind of defective assembly(*Flipped, Twisted, Out of order*) and **visualize** them in crayon plate by using OpenCV, without any machine learning techniques. 
 
-### Detect “FLIPPED”
-
-![Untitled](Crayon%20assembly%20Detector%203c1829c9ee7b40cabc2707a27629cc2c/Untitled.png)
-
-### Detect “TWISTED”
-
-![Untitled](Crayon%20assembly%20Detector%203c1829c9ee7b40cabc2707a27629cc2c/Untitled%201.png)
-
-### Detect “ORDER”
-
-![Untitled](Crayon%20assembly%20Detector%203c1829c9ee7b40cabc2707a27629cc2c/Untitled%202.png)
-
 # 0. Dev Environment
 
 - Python 3.7
@@ -25,10 +13,10 @@ The goal of this project is to write a program that **detects** 3 kind of defect
 
 We made a new img with only crayon plate was created using **Contour&warp perspective** func in OpenCV to overcome different filming conditions and process each crayon in plate. 
 
-![Untitled](Crayon%20assembly%20Detector%203c1829c9ee7b40cabc2707a27629cc2c/Untitled%203.png)
-
 1. Select 2 color binary img and combine those imgs using **bitwise_or.**
 2. Find largest rectangle in contour list. 
+
+![Untitled](/Untitled 3.png)
 
 ![Untitled](Crayon%20assembly%20Detector%203c1829c9ee7b40cabc2707a27629cc2c/Untitled%204.png)
 
