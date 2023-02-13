@@ -26,3 +26,5 @@ We made a new img with only crayon plate was created using **Contour&warp perspe
 6. Compare every top-left points in crayons.
 Since origin coordinate of img is *top-left* and crayon positions are normalized(process 1~4), 
 if there are less y-value top-left point than others, it would be FLIPPED.
+
+연구때문에 바쁘지만 학기가 시작되기 전(2월 28일)에 업데이트를 마무리할 예정입니다 :)
