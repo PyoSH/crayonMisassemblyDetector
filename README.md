@@ -3,7 +3,7 @@
 이 프로그램은 2022년 2학기 [Computer Vision Appliance(professor. 이승호)] course의 결과물입니다. 
 수업의 과제인 "크레용판 생산과정에서 잘못 조립된 크레용을 **검출** 하고 **시각화** 하는 것"이 목표이고, 기계학습 방법을 제외한 OpenCV를 사용했습니다.
 
-<img width="80%" src="https://user-images.githubusercontent.com/42665051/222943915-a7a0aeba-66c8-4bbb-a859-7b30db523193.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/42665051/222944288-bec46dba-4ea4-4c79-984d-7658381b6c81.png"/>
 
 ## 0. Dev Environment
 
