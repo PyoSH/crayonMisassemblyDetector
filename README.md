@@ -32,9 +32,9 @@ integral_test.py와 final_int.py에서 응용버전을 확인할 수 있습니�
 ### 히스토그램 투영
 특정 영역에서 손잡이를 제외한 색상을 이진화합니다. 이미지 기준 y축 방향으로 누적해 히스토그램을 만들면 분포에 따라 좌로, 혹은 우로 각도가 틀어졌는지 구분할 수 있습니다.
 다양한 크레용의 사례에 따라 히스토그램이 다양하게 나오기 때문에 누적이 특정 값 이상으로 된 대상들에 대해 최빈값을 구하고, 이 최빈값의 x픽셀 위치가 어디에 있는가를 다른 조건들과 함께 판단해 어느 방향으로 각도가 틀어졌는지 구분하도록 했습니다. <br>
-<img width="30%" src="https://user-images.githubusercontent.com/42665051/222947123-f4a78495-eeb5-4ff3-8ffe-6fc6a71444f0.png"/><img width="30%" src="https://user-images.githubusercontent.com/42665051/222947115-f151996c-62a6-48e4-8979-39c64cfcc491.png"/>
+<img width="25%" src="https://user-images.githubusercontent.com/42665051/222947123-f4a78495-eeb5-4ff3-8ffe-6fc6a71444f0.png"/><img width="25%" src="https://user-images.githubusercontent.com/42665051/222947115-f151996c-62a6-48e4-8979-39c64cfcc491.png"/><img width="25%" src="https://user-images.githubusercontent.com/42665051/222947196-ce367449-5bd9-40a3-ab83-069f3d5f891e.png"/><img width="25%" src="https://user-images.githubusercontent.com/42665051/222947192-b522a58d-b468-4f4d-8ccd-b032e38f76a0.png"/>
 
-
+정상, 
 hist_projection.py와 finalPBL.py에서 예시 프로그램과 응용 버전을 확인할 수 있습니다. 
 
 
