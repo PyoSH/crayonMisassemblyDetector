@@ -2,10 +2,10 @@
 
 이 프로그램은 2022년 2학기 [Computer Vision Appliance(professor. 이승호)] course의 결과물입니다. 
 수업의 과제인 "크레용판 생산과정에서 잘못 조립된 크레용을 **검출** 하고 **시각화** 하는 것"이 목표이고, 기계학습 방법을 제외한 OpenCV를 사용했습니다.
-입력 이미지 유형
-<img width="30%" src="https://user-images.githubusercontent.com/42665051/222944317-5d4152eb-be4b-4d01-bd48-6efaf7880e6c.png"/>
-시각화 출력 유형
-<img width="30%" src="https://user-images.githubusercontent.com/42665051/222944385-e40c0ff5-2293-4e04-abe9-c2131454e864.png"/>
+
+<img width="30%" src="https://user-images.githubusercontent.com/42665051/222944317-5d4152eb-be4b-4d01-bd48-6efaf7880e6c.png"/>입력 이미지 유형
+
+<img width="30%" src="https://user-images.githubusercontent.com/42665051/222944385-e40c0ff5-2293-4e04-abe9-c2131454e864.png"/>시각화 출력 유형
 ## 0. Dev Environment
 
 - Python 3.7
