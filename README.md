@@ -5,6 +5,7 @@
 
 <img width="30%" src="https://user-images.githubusercontent.com/42665051/222944317-5d4152eb-be4b-4d01-bd48-6efaf7880e6c.png"/>
 
+<img width="30%" src="https://user-images.githubusercontent.com/42665051/222944385-e40c0ff5-2293-4e04-abe9-c2131454e864.png"/>
 ## 0. Dev Environment
 
 - Python 3.7
