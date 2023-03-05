@@ -19,6 +19,7 @@ We made a new img with only crayon plate was created using **Contour&warp perspe
 2. Find largest rectangle in contour list. 
 
 [process explainable img in here]
+<img width="80%" src="https://user-images.githubusercontent.com/42665051/222944819-84e7d2f1-5335-400d-a20b-31882bf68cbd.png"/>
 
 1. Get 4 points from contour func, readjust them in *top-right, top-left, bottom-right, bottom-left.*
 2. Make a new img from 4 points described above, using **warp perspective.**
