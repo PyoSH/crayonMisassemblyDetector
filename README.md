@@ -1,15 +1,15 @@
 # Crayon assembly Detector
 
-This project is the result of [Computer Vision Appliance(professor. 이승호)] course for the 2nd semester of 2022.
-
-The goal of this project is to write a program that **detects** 3 kind of defective assembly(*Flipped, Twisted, Out of order*) and **visualize** them in crayon plate by using OpenCV, without any machine learning techniques. 
+이 프로그램은 2022년 2학기 [Computer Vision Appliance(professor. 이승호)] course의 결과물입니다. 
+수업의 과제인 "크레용판 생산과정에서 잘못 조립된 크레용을 **검출** 하고 **시각화** 하는 것"이 목표이고, 기계학습 방법을 제외한 OpenCV를 사용했습니다.
+<img width="80%" src="![image](https://user-images.githubusercontent.com/42665051/222943915-a7a0aeba-66c8-4bbb-a859-7b30db523193.png)"/>
 
 # 0. Dev Environment
 
 - Python 3.7
 - Used library : Numpy, OpenCV, Matplotlib
 
-# 1. Detect Flip
+# 1. 상/하 뒤집어진 크레용 검출하기
 
 We made a new img with only crayon plate was created using **Contour&warp perspective** func in OpenCV to overcome different filming conditions and process each crayon in plate. 
 
@@ -27,4 +27,14 @@ We made a new img with only crayon plate was created using **Contour&warp perspe
 Since origin coordinate of img is *top-left* and crayon positions are normalized(process 1~4), 
 if there are less y-value top-left point than others, it would be FLIPPED.
 
-연구때문에 바쁘지만 학기가 시작되기 전(2월 28일)에 업데이트를 마무리할 예정입니다 :)
+# 2. 각도가 틀어진 크레용 검출하기
+~~~~~
+
+# 3. 꽂힌 순서가 잘못된 크레용 검출하기
+
+
+
+
+### 자세한 개발과정은 개발 중에 작성한 노션 페이지를 통해 확인할 수 있습니다 :)
+https://www.notion.so/Get-Ur-Crayon-e64a160028d9437fad2c477a1a2924dd?pvs=4
+
